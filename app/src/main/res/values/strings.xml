@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Forecast MVVM</string>
+    <string name="today">Today</string>
+    <string name="_7_days">7 days</string>
+    <string name="setting">Setting</string>
+    <string name="loading">Loading</string>
+    <string name="tv_temperature">21.0\'C</string>
+    <string name="feels_like_20_4_c">Feels like 20.4\'C</string>
+    <string name="patchy_rain_possible">Patchy rain possible</string>
+    <string name="wind_se_5_3_m_s">Wind: SE, 5.3 m/s</string>
+    <string name="visibility_20_km">Visibility : 20 km</string>
+    <string name="precipitation_5mm">Precipitation : 5mm</string>
+    <string name="settings">Settings</string>
+</resources>
